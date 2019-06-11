@@ -1,0 +1,12 @@
+#spring:
+#    mvc:
+#      view:
+#        prefix: /WEB-INF/jsp/
+#        suffix: .jsp 
+      
+        
+        
+
+test:
+  name: goda
+  age: 19
